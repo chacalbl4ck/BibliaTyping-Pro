@@ -1,2 +1,2 @@
-# B-bliaTyping-Pro
+# BíbliaTyping-Pro
 BíbliaTyping Pro
